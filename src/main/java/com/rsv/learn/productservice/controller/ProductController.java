@@ -1,4 +1,4 @@
-package com.rsv.learn.productservice;
+package com.rsv.learn.productservice.controller;
 
 import com.rsv.learn.productservice.dto.ProductRequest;
 import com.rsv.learn.productservice.dto.ProductResponse;
